@@ -3,6 +3,8 @@
 ##### - Website: draco.li
 ##### - Linkedin: linkedin.com/in/lidraco/
 ##### - Contact: draco[at]draco[dot]li
-<img src="https://tenor.com/view/penguin-working-hat-suitcase-cute-gif-3478076.gif"
-     alt="Markdown Monster icon"
+<img src="https://tenor.com/view/club-penguin-ghosthy-hi-hello-wave-gif-10017453.gif"
+     alt="Club Penguin :)"
+     width="50%"
+     height="50%"
      style="float: center; margin-right: 10px;" />
