@@ -2,7 +2,7 @@
 #### I'm Draco, a 3rd year studying Computer Science at Georgia Tech
 ##### - Website: draco.li
 ##### - Linkedin: linkedin.com/in/lidraco/
-##### - Contact: draco[at]draco[dot]li
+##### - Contact: draco[at]yahoo[dot]com
 <img src="https://tenor.com/view/club-penguin-ghosthy-hi-hello-wave-gif-10017453.gif"
      alt="Club Penguin :)"
      width="200"
