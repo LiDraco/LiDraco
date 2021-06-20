@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Draco, a 3rd year studying Computer Science at Georgia Tech
+#### I'm Draco, a 4th year studying Computer Science at Georgia Tech
 ##### - Website: draco.li
 ##### - Linkedin: linkedin.com/in/lidraco/
 ##### - Contact: draco[at]yahoo[dot]com
